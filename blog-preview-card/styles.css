@@ -1,0 +1,23 @@
+.bg-custom {
+  background-color: #f4d04e;
+}
+
+.custom-color {
+  color: #6b6b6b;
+} 
+
+.custom-shadow{
+  box-shadow: 8px 8px #000000;
+}
+
+* {
+  font-family: "Figtree", sans-serif;
+}
+
+h1:hover {
+  color: #f4d04e;
+}
+
+h1:focus {
+  color: #f4d04e;
+}
